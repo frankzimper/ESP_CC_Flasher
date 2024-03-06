@@ -1,9 +1,7 @@
 #pragma once
 #include <Arduino.h>
 
-//#define STATIC_WIFI
-#define WIFI_NAME "YOURWIFI"
-#define WIFI_PWD "YOURPASSWORD"
+#include "WiFiconfig.h"
 
 #ifndef STATIC_WIFI
 #define MANAGED_WIFI

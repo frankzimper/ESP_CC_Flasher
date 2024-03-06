@@ -1,0 +1,3 @@
+//#define STATIC_WIFI
+#define WIFI_NAME "YOURWIFI"
+#define WIFI_PWD "YOURPASSWORD"

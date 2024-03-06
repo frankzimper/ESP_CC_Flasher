@@ -5,7 +5,6 @@
 #include <math.h>
 #include "web.h"
 #include "utils.h"
-#include "spiffs.h"
 #include "cc_interface.h"
 #include <FS.h>
 #if defined(ESP32)
